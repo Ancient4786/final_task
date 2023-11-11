@@ -1,3 +1,4 @@
 Nama        : Tri Satyo Nugroho
 Umur        : 22
 pekerjaan   : Developer
+domisili    : Indonesia
